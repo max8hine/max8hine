@@ -1,4 +1,4 @@
-[![Social Banner for Max Ma](./image/facebook_cover.svg)](https://maxma.netlify.app/)
+[![Social Banner for Max Ma](/image/facebook_cover.svg?raw=true "Banner")](https://maxma.netlify.app/)
 
 <!--
 **max8hine/max8hine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
