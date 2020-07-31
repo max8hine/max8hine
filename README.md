@@ -1,4 +1,4 @@
-[![Social Banner for Max Ma](https://raw.githubusercontent.com/max8hine/max8hine/master/image/facebook_cover.svg)](https://maxma.netlify.app/)
+[![Social Banner for Max Ma](https://raw.githubusercontent.com/max8hine/max8hine/master/image/github_cover.svg)](https://maxma.netlify.app/)
 
 
 <!--
